@@ -15,7 +15,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,12 +30,10 @@ Users should be able to:
 
 ![](./advice.png)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/sveltejs-tailwindcss-fetch-api-nVH0WDC3l4)
-- Live Site URL: [Add live site URL here](https://advice-generator-plum.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/sveltejs-tailwindcss-fetch-api-nVH0WDC3l4](https://www.frontendmentor.io/solutions/sveltejs-tailwindcss-fetch-api-nVH0WDC3l4)
+- Live Site URL: [https://advice-generator-plum.vercel.app/](https://advice-generator-plum.vercel.app/)
 
 ## My process
 
@@ -44,7 +41,7 @@ Users should be able to:
 
 - Flexbox
 - Mobile-first workflow
-- [Svelte](https://reactjs.org/) - JS library
+- [SvelteKit](https://kit.svelte.dev/) - JS library
 - [TailwindCSS](https://tailwindcss.com/) - CSS Library
 
 ### What I learned
